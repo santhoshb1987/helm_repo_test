@@ -1,0 +1,36 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-05-16T18:27:54.984192363+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 83ee53a4bf2330069339b7f8061b8f37641db2734ca65d370f79bed162df1b9c
+    name: mychart
+    type: application
+    urls:
+    - mychart-0.1.0.tgz
+    version: 0.1.0
+  repotest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-05-16T18:27:54.98468429+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 8a2f0acc0164e430c638e67845ce94db4b9a2005221b61082ee2ecf4184195d1
+    name: repotest
+    type: application
+    urls:
+    - repotest-0.1.0.tgz
+    version: 0.1.0
+  santhoshtest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-05-16T18:27:54.985127021+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 17e4842883d5cb1723a0b9dcaf8bd304f726988d866704a3a8824fb46e6ebf49
+    name: santhoshtest
+    type: application
+    urls:
+    - santhoshtest-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-16T18:27:54.982727875+05:30"

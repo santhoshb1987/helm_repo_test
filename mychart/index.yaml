@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mysubchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-05-16T18:26:47.332345256+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 2432720bd49713da3505fc6ce5f5aba35c1b1cb84b418ba54edb9476672efaae
+    name: mysubchart
+    type: application
+    urls:
+    - charts/mysubchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-16T18:26:47.331484858+05:30"
